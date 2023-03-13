@@ -7,7 +7,7 @@
 - Create a CSS file named `style.css` and place it in a `css` folder.
 - Link the new css file to your `index.html`.
 - Embed two Google fonts (listed below) in the `<head>` of your html:
-  - Open Sans `Regular 400` & `Regular 400 Italic`
+  - Open Sans `Regular 400`, `Regular 400 Italic` & `Bold 700`
   - Vesper Libre `Regular 400` & `Bold 700` 
 - Complete the tasks below by updating html elements with properties and valid values covered in class.
 - Reference the screenshot of the styled page to double check it matches your work.
