@@ -1,0 +1,11 @@
+body{
+font-family:'vesper libre',serif;
+color: #1a1a1a;
+line-height: 1.5
+font-size: 1.125rem;
+}
+/* Select `body` 
+  - Set the default font family to be `Vesper Libre`
+  - Set the text color to `#1a1a1a`
+  - Set line height to `1.5`
+  - Update font size to `1.125rem` */
