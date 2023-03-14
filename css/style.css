@@ -45,4 +45,12 @@ display: inline;
 a:hover {
     text-decoration: none;
 }
-  
+  .author, text, time {
+    font-size: 85rem;
+  }
+  .author, text {
+    margin-bottom: 0;
+  }
+  figure {
+    margin: 1.25em o;
+  }
