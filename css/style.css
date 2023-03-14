@@ -30,4 +30,20 @@ font-size: .85rem;
 border-bottom: 2px solid #ff3530;
 display: inline;
   }
+  h1 {
+    font-size: 2.5rem;
+    line-height: 1.3;
+    margin: 1rem 0;
+  }
+  .sub-title, title {
+    font-weight: bold;
+  }
+  figcaption {
+    font-style:  .85rem;
+    text-align: center;
+   color: #757575;
+  font-style: italic;
+  
+  }
+
   
