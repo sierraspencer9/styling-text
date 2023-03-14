@@ -24,9 +24,10 @@ font-family: 'open sans',sans-serif;
   - Set font size to be `.85rem`
   - Add `border-bottom: 2px solid #ff3530`
   - Add `display: inline;` */
-  .article-categorty-text {
+.article-category, text {
 text-transform: uppercase;
 font-size: .85rem;
-border-bottom: 2px, solid, #ff3530;
+border-bottom: 2px solid #ff3530;
+display: inline;
   }
   
