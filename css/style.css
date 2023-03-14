@@ -12,18 +12,12 @@ font-size: 1.125rem;
   img {
     width: 100%;
   }
-  /* 
-3. Select `figcaption`, `.article-category`, `.sub-title`, `.author` and `time`
-  - Change font-family to `Open Sans` */
+
 
   figcaption,.article-category,.sub-title,.author,time {
 font-family: 'open sans',sans-serif;
   }
-  /* 4. Select text using the class of `article-category`
-  - Change text to be displayed as uppercase
-  - Set font size to be `.85rem`
-  - Add `border-bottom: 2px solid #ff3530`
-  - Add `display: inline;` */
+
 .article-category, text {
 text-transform: uppercase;
 font-size: .85rem;
@@ -43,7 +37,12 @@ display: inline;
     text-align: center;
    color: #757575;
   font-style: italic;
-  
   }
-
+  a:link {
+    color: #1a1a1a;
+    text-decoration: underline;
+  }
+a:hover {
+    text-decoration: none;
+}
   
